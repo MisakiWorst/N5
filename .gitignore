@@ -1,4 +1,5 @@
+node_modules/
+public/
+.quartz-cache/
 .obsidian/workspace*
 .obsidian/cache
-Thumbs.db
-.DS_Store
