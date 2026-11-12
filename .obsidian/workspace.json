@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "1d8c53d7e929eaae",
+    "type": "split",
+    "children": [
+      {
+        "id": "8115b03e7645ee42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a622efb2a7fe7038",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "欢迎.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "欢迎"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2da0b00c51950105",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c57d1397d9398f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e9df421ef021a19",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "eed2828b0a71f06d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"tags\"]",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "615913e15afb6a8b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "bb2cef533cbc1fca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "f02dfb54f33d4070",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {},
+              "icon": "lucide-file-signature",
+              "title": "脚注"
+            }
+          },
+          {
+            "id": "9b09ba9ebfe039a9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "7beb834bf39893e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "4019202bcadb9919",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13f43f69e83663a5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "99ef9874d1159736",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "d65143651d0c83ac",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 215.1046142578125,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "audio-recorder:开始/结束录音": false,
+      "random-note:开始漫游笔记": false,
+      "zk-prefixer:创建时间戳笔记": false
+    }
+  },
+  "active": "a622efb2a7fe7038",
+  "lastOpenFiles": [
+    "README.md",
+    "000.Japanese《日语》/欢迎.md",
+    "未命名 1.base",
+    "未命名.base",
+    "coding.md",
+    "AI.md",
+    "001.词类与活用/001名词/名词.md",
+    "001.词类与活用/002ナ形容词/ナ形容词.md",
+    "001.词类与活用/004动词/动词.md",
+    "001.词类与活用/词类与活用作业.md",
+    "002.助词/003副助词/副助词.md",
+    "001.词类与活用/004动词/42种活用.md",
+    "001.词类与活用/003イ形容词/イ形容词.md",
+    "007.接尾词/接尾词/接尾词.md",
+    "005.疑问词/疑问词/疑问词作业.md",
+    "010.功能用语·句型/功能用语·句型/002.推测·判断·解释·评价·比较·传闻·疑问等/推测·判断·解释·评价·比较·传闻·疑问等.md",
+    "010.功能用语·句型/功能用语·句型/001.时间·场合·经历·变化·样子·决定·原因等/时间·场合·经历·变化·样子·决定·原因等.md",
+    "009.功能词/功能词/功能词.md",
+    "008补助动词/补助动词/补助动词.md",
+    "002.助词/002接续助词/接续助词.md",
+    "006.形式名词/形式名词/形式名词.md",
+    "005.疑问词/疑问词/疑问词.md",
+    "005.疑问词/疑问词/疑问词解答.md",
+    "003.助动词/助动词/助动词.md",
+    "003.助动词/ない (否定助动词)/ない (否定助动词).md",
+    "003.助动词/たい (愿望助动词)/たい (愿望助动词).md",
+    "003.助动词/ます (敬语助动词)/ます (敬语助动词).md",
+    "003.助动词/です (敬语断定助动词)/です (敬语断定助动词).md",
+    "003.助动词/助动词",
+    "001.词类与活用/名词/未命名",
+    "010.功能用语·句型/功能用语·句型/003.请求·劝诱·命令·禁止·许可·愿望·能力等",
+    "010.功能用语·句型/功能用语·句型/002.推测·判断·解释·评价·比较·传闻·疑问等",
+    "010.功能用语·句型/功能用语·句型/001.时间·场合·经历·变化·样子·决定·原因等",
+    "011.待遇表现/004.敬语表达——礼貌语",
+    "011.待遇表现/003.敬语表达——谦让语",
+    "011.待遇表现/002.敬语表达——尊敬语",
+    "未命名.canvas"
+  ]
+}
